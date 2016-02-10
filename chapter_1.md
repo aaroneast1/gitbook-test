@@ -2,6 +2,6 @@
 
 ### Converting website to epub
 
-some text goes here...````````````
+some text goes here...
 
 
